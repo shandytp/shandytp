@@ -23,4 +23,10 @@ I'm Moch Shandy Tsalasa Putra, people call me Shandy or Tepe. Right now pursuing
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=shandytp&&show_icons=true&theme=tokyonight"/>
 </a>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandytp&layout=compact&theme=tokyonight"/>
+</a>
 </p>
+
