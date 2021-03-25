@@ -1,4 +1,4 @@
-# Greeting People
+# Greeting People👋
 
 <div align="center">
 <img height="281" width="500" alt="GIF" align="center" src="https://github.com/shandytp/shandytp/blob/main/assets/roboco1.gif">
