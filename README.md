@@ -1,7 +1,7 @@
 # Greeting People
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://i.imgur.com/hCj97nG.mp4">
+<img height="300" width="700" alt="GIF" align="center" src="https://i.imgur.com/hCj97nG.gif">
 </div>
 
 </br>
