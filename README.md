@@ -8,7 +8,7 @@
 </br>
 </br>
 
-I'm Moch Shandy Tsalasa Putra, people call me Shandy or Tepe. My bachelor's degree is Informatics Engineering degree at [Universitas Muhammadiyah Malang](http://www.umm.ac.id/). My research interest are in Machine Learning, Deep Learning, Computer Vision and Medical Imaging. Find out more about me and reach me here : 
+I'm Moch Shandy Tsalasa Putra, people call me Shandy or Tepe. My bachelor's degree is Informatics Engineering degree at [Universitas Muhammadiyah Malang](http://www.umm.ac.id/). My research interest are in Machine Learning, Deep Learning, Computer Vision and Medical Imaging. Currently work part-time at [Pacmann.AI](https://www.pacmann.io/) as Teaching Assistant. Find out more about me and reach me here : 
 <p align="center">
   <strong><a href="https://twitter.com/shandytepe">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/shandytp/">LinkedIn</a></strong> 
