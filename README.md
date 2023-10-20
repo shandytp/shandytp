@@ -10,11 +10,10 @@
 </br>
 </br>
 
-Hello, people call me Shandy or Tepe. Right now I'm working at [Pacmann](https://pacmann.io/) as a Content Developer Sekolah Data. My research interest are in Data Analytics, Sport Analytics, and Vtuber Analytics (we can discuss about it all day long). Everyday I pray to God to make my code are working properly. Find out more about me and reach me here : 
+Hello, people call me Shandy or Tepe. Right now I'm working at [Pacmann](https://pacmann.io/) and [Valiance](https://valiance.ai/) as a Data Engineer and Content Developer Sekolah Engineering. My everyday job is to do query, query, query, and create a data pipeline. Every day I pray to God to make sure my code is working properly and not explode in production. Find out more about me and reach me here : 
 <p align="center">
   <strong><a href="https://twitter.com/shandytepe">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/shandytp/">LinkedIn</a></strong> |
-  <strong><a href="https://medium.com/@shandytp">Medium</a></strong>
+  <strong><a href="https://www.linkedin.com/in/shandytp/">LinkedIn</a></strong>
 </p>
 
 </br>
